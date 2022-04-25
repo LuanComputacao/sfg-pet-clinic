@@ -1,2 +1,4 @@
-package com.luancomputacao.sfgpetclinic.model;public class Owner {
+package com.luancomputacao.sfgpetclinic.model;
+
+public class Owner extends Person{
 }

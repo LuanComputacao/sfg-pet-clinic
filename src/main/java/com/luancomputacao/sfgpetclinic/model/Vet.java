@@ -1,2 +1,4 @@
-package com.luancomputacao.sfgpetclinic.model;public class Vet {
+package com.luancomputacao.sfgpetclinic.model;
+
+public class Vet extends Person{
 }
