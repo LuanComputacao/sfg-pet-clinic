@@ -1,4 +1,4 @@
-package com.luancomputacao.sfgpetclinic.model;
+package com.luancomputacao.sfgpetclinc.model;
 
 import java.time.LocalDate;
 
